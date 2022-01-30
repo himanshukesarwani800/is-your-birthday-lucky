@@ -2,7 +2,7 @@
 
 h1 {
     font-family: 'Comforter', cursive;
- font-size: 4rem;
+    font-size: 4rem;
 }
 
 .container {
@@ -21,6 +21,19 @@ h1 {
 .block-element {
     display: block;
 }
-.center-element{
+
+.center-element {
     margin: 10px auto;
+}
+
+.font-big {
+    font-size:2rem;
+}
+
+input {
+    padding: 10px 0;
+    font-size: large;
+    width: 20%;
+    border: transparent;
+    border-radius: 5px;
 }

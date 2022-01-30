@@ -2,9 +2,25 @@
 
 h1 {
     font-family: 'Comforter', cursive;
+ font-size: 4rem;
 }
 
 .container {
+    background-color: goldenrod;
     font-family: 'Poppins', sans-serif;
+    text-align: center;
 }
 
+.img-contact {
+
+    width: 30px;
+    height: 30px;
+    padding: 10px;
+}
+
+.block-element {
+    display: block;
+}
+.center-element{
+    margin: 10px auto;
+}

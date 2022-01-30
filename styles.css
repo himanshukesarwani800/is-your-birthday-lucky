@@ -1,4 +1,10 @@
 @import url('https://fonts.googleapis.com/css2?family=Comforter&family=Poppins&display=swap');
 
+h1 {
+    font-family: 'Comforter', cursive;
+}
 
+.container {
+    font-family: 'Poppins', sans-serif;
+}
 
